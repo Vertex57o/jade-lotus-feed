@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Jade Lotus Daily Mantras</title>
+    <link>https://discord.gg/PpB5svR8</link>
+    <description>Daily meditative messages from the Jade Lotus Sanctuary.</description>
+
+    <item>
+      <title>Day 1 – Plant Your Attention</title>
+      <description>Plant your attention in the present moment; from there, every lotus of insight can bloom.</description>
+      <pubDate>Wed, 13 Aug 2025 09:00:00 GMT</pubDate>
+    </item>
+
+    <!-- Add more items here for each day -->
+
+  </channel>
+</rss>
